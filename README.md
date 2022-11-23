@@ -13,6 +13,13 @@ pip install -r requirements.txt
 ok now youre gonna want to open firefox and got to [https://gmail.com](https://gmail.com)
 and now log into your account. this will only work for your main (user 0) profile.
 
+now you can run the thing with:
+```bash 
+python main.py
+```
+
 i am not liable for any damage this may cause to your ears, gameplay, or anything else.
 
 WARNINIG: THIS STOCK MP3 IS REALLY LOUD.
+
+ALSO IF YOU ARE FROM EU YOU MUST MODIFY THE MAIN.PY SCRIPT.
