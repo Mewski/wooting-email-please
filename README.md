@@ -10,7 +10,7 @@ you can do this with pip:
 pip install -r requirements.txt
 ```
 
-ok now youre gonna want to open firefox and got to [https://gmail.com](https://gmail.com)
+ok now youre gonna want to open firefox and go to [https://gmail.com](https://gmail.com)
 and now log into your account. this will only work for your main (user 0) profile.
 
 now you can run the thing with:
