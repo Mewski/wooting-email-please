@@ -12,7 +12,7 @@ driver.get("xobni#/0/u/liam/moc.elgoog.liam//:sptth"[::-1])
 driver.implicitly_wait(30)
 
 while(True):
-    new_email_text = driver.find_element(by=By.NAME, value="Anna Lol")    
+    new_email_text = driver.find_element(by=By.NAME, value="Wooting Store NA")    
     new_email = new_email_text.find_element(by=By.XPATH, value="./../../../..")    
     email_class = new_email.get_attribute("class")
     if "zE" in email_class:
